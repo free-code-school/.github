@@ -1,7 +1,7 @@
 # Free Code School (FCS)
 
 <div align="center">
-  <img src="public/logo.png" alt="FCS Logo" width="200"/>
+  <img src="logo.png" alt="FCS Logo" width="200"/>
   
 ### Empowering Talent in AI, Coding, and All Techs
   
