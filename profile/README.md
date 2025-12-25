@@ -25,7 +25,6 @@ Free Code School (FCS) is a dynamic technology company that brings together exce
 
 - 🌐 **Website**: [fcs.ninja](https://fcs.ninja)
 - 📧 **Email**: [hi@fcs.ninja](mailto:hi@fcs.ninja)
--
 ---
 
 <div align="center">
